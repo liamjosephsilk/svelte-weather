@@ -6,7 +6,7 @@
 <style>
   h3 {
     margin: 0 2px;
-    font-size: 0.7rem;
+    font-size: 2rem;
     font-weight: lighter;
     color: #dee1ec;
   }

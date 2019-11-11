@@ -10,7 +10,7 @@
 
 <style>
   .weather-container {
-    height: 30%;
+    height: 50%;
     display: flex;
     justify-content: center;
     flex-direction: column;

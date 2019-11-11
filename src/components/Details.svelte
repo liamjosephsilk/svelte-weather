@@ -8,7 +8,7 @@
 
 <style>
   .details {
-    height: 60%;
+    height: 40%;
     display: flex;
     justify-content: flex-end;
     flex-direction: column;

@@ -5,11 +5,11 @@
 
 <style>
   h3 {
-    font-size: 5rem;
+    font-size: 10rem;
     margin: 0;
   }
   span {
-    font-size: 2.2rem;
+    font-size: 4.2rem;
   }
 
   .temp {

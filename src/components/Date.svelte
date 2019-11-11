@@ -43,7 +43,7 @@
     display: flex;
   }
   h5 {
-    font-size: 0.8rem;
+    font-size: 2rem;
     margin-right: 5px;
     margin-bottom: 0;
     margin-top: 0;
